@@ -6,6 +6,8 @@
 
 This plugin allows you to install all the required AnyCable components to a Kubernetes cluster.
 
+> Read also [Kubing Rails: stressless Kubernetes deployments with Kuby](https://evilmartians.com/chronicles/kubing-rails-stressless-kubernetes-deployments-with-kuby).
+
 ## Installation
 
 Add to your project:
