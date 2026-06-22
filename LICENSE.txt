@@ -1,4 +1,4 @@
-Copyright (c) 2021-2022 Vladimir Dementyev
+Copyright (c) 2021-2026 Vladimir Dementyev
 
 MIT License
 
